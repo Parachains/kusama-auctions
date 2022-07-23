@@ -1,1 +1,1 @@
-Kusama Auctions data fetching
+# Kusama Auctions data fetching (SubQuery)
