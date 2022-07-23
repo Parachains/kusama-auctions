@@ -1,1 +1,1 @@
-Kusama Auction data fetching
+Kusama Auctions data fetching
